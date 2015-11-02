@@ -14,7 +14,7 @@
 #Pull the code:
 1. Setup first time:
   1. git remote add development https://github.com/sonhnguyen/ECE-project-1.git (add remote development on Github)
-2. git pull development development (pull the code from branch development on Git to local branch development)
+2. git pull origin development (pull the code from branch development on Git to local branch development)
 3. Fix conflicts
 
 #Useful:
